@@ -1,0 +1,80 @@
+/* Inserte su codigo aqui */
+header{
+	background-color: orange;
+	height: 500px;
+}
+
+nav{
+	margin-top: 5%;
+	margin-bottom: 3%;
+	text-shadow:0px 1px 0px #E84A49;
+}
+
+a{
+	padding: 15px 0px 15px 30px;
+  	text-decoration: none;
+  	color: white;
+  	font-weight: bold;
+  	font-size: 15px;
+}
+
+section{
+	background-color: #CAB8B8;
+}
+
+.col-12 div{
+	margin-top: 100px;
+}
+
+.miBoton {
+	border:1px groove #FFB269;
+	background-color: #FFB269;
+	display:inline-block;
+	cursor:pointer;
+	color: white;
+	font-family:Arial;
+	font-size: 15px;
+	font-weight: bold;
+	padding: 6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #E84A49;
+	margin: 15px;
+}
+
+.portada{
+	color: white;
+	text-shadow:0px 1px 0px #E84A49;
+	margin: 3px;
+}
+
+.white{
+	background-color: white;
+	margin: 15px 0px;
+	border: 1px solid #CAB8B8; /* No coloque el alto y eso hace que si escribo más que en otros contenedores se pierde el equilibrio */
+}
+
+footer{
+	background-color: #333333;
+}
+
+p{
+	margin-left: 15px;
+}
+
+.blanco{
+	color: white;
+	padding: 5px;
+
+}
+
+.titulo{
+	margin-left: 5px;
+}
+
+.proyectos{
+	border: groove 5px white;
+	width: 300px;
+	height: 300px;
+	margin-bottom: 15%;
+}
+
